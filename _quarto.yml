@@ -57,7 +57,7 @@ website:
 
 format:
   html:
-    theme: [default, css/theme.scss]
+    theme: cosmo
     anchor-sections: true
     smooth-scroll: true
     link-external-newwindow: true

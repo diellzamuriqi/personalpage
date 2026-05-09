@@ -1,47 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://www.laurenchenarides.com/workshops.html</loc>
-    <lastmod>2026-05-08T21:38:09.485Z</lastmod>
+    <loc>https://diellzamuriqi.github.io/teaching.html</loc>
+    <lastmod>2026-05-09T03:32:37.316Z</lastmod>
   </url>
   <url>
-    <loc>https://www.laurenchenarides.com/research.html</loc>
-    <lastmod>2026-05-08T21:38:09.476Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.laurenchenarides.com/orchard.html</loc>
+    <loc>https://diellzamuriqi.github.io/orchard.html</loc>
     <lastmod>2026-05-08T21:38:09.473Z</lastmod>
   </url>
   <url>
-    <loc>https://www.laurenchenarides.com/index.html</loc>
-    <lastmod>2026-05-08T21:38:09.464Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.laurenchenarides.com/center.html</loc>
-    <lastmod>2026-05-08T21:38:08.993Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.laurenchenarides.com/bio.html</loc>
-    <lastmod>2026-05-08T21:38:08.987Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.laurenchenarides.com/build_git_website.html</loc>
-    <lastmod>2026-05-08T21:38:08.987Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.laurenchenarides.com/cv.html</loc>
+    <loc>https://diellzamuriqi.github.io/cv.html</loc>
     <lastmod>2026-05-08T21:38:09.020Z</lastmod>
   </url>
   <url>
-    <loc>https://www.laurenchenarides.com/media.html</loc>
-    <lastmod>2026-05-08T21:38:09.469Z</lastmod>
+    <loc>https://diellzamuriqi.github.io/build_git_website.html</loc>
+    <lastmod>2026-05-08T21:38:08.987Z</lastmod>
   </url>
   <url>
-    <loc>https://www.laurenchenarides.com/podcast.html</loc>
-    <lastmod>2026-05-08T21:38:09.474Z</lastmod>
+    <loc>https://diellzamuriqi.github.io/bio.html</loc>
+    <lastmod>2026-05-09T03:41:50.373Z</lastmod>
   </url>
   <url>
-    <loc>https://www.laurenchenarides.com/teaching.html</loc>
-    <lastmod>2026-05-08T21:38:09.481Z</lastmod>
+    <loc>https://diellzamuriqi.github.io/center.html</loc>
+    <lastmod>2026-05-08T21:38:08.993Z</lastmod>
+  </url>
+  <url>
+    <loc>https://diellzamuriqi.github.io/index.html</loc>
+    <lastmod>2026-05-09T03:47:45.911Z</lastmod>
+  </url>
+  <url>
+    <loc>https://diellzamuriqi.github.io/research.html</loc>
+    <lastmod>2026-05-09T03:09:58.568Z</lastmod>
   </url>
 </urlset>

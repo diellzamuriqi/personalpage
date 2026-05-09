@@ -9,7 +9,7 @@ execute:
   warning: false
 ---
 
-I am a Ph.D. student in Agricultural and Resource Economics at Colorado State University. My research focuses on environmental and natural resource economics, with an emphasis on flood risk, warning systems, disaster impacts, water policy, and applied econometrics.
+I am a Ph.D. student in Natural Resource Economics at Colorado State University. My research focuses on environmental and natural resource economics, with an emphasis on flood risk, warning systems, disaster impacts, water policy, and applied econometrics.
 
 I was born and raised in Kosovo. My first experience studying abroad was at the United World College of the Adriatic in Italy, where I completed the International Baccalaureate program, studied economics, and learned Italian. That experience shaped my interest in public policy, development, and environmental challenges.
 

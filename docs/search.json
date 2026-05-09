@@ -35,11 +35,11 @@
     "text": "Charles N. Shepardson Graduate Student Teaching Award\nColorado State University College of Agricultural Sciences, 2025"
   },
   {
-    "objectID": "orchard.html",
-    "href": "orchard.html",
-    "title": "Data Linkages",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Diellza Muriqi",
     "section": "",
-    "text": "More information coming soon!"
+    "text": "Welcome to my personal website!\nI am a PhD student in Natural Resource Economics at Colorado State University. My research interests are in environmental economics, natural hazards, flood risk management, early warning systems, and applied econometrics.\nMy current research studies how flood risk, flood warnings, and public risk information affect economic behavior and local outcomes. I work with large administrative and spatial datasets, including NOAA weather alerts, flood events, FEMA disaster declarations, employment data, and community-level flood mitigation records.\nVisit my research page or read more about me if you are interested in my work."
   },
   {
     "objectID": "build_git_website.html",
@@ -144,105 +144,7 @@
     "href": "bio.html",
     "title": "About Diellza",
     "section": "",
-    "text": "I am a Ph.D. student in Agricultural and Resource Economics at Colorado State University. My research focuses on environmental and natural resource economics, with an emphasis on flood risk, warning systems, disaster impacts, water policy, and applied econometrics.\nI was born and raised in Kosovo. My first experience studying abroad was at the United World College of the Adriatic in Italy, where I completed the International Baccalaureate program, studied economics, and learned Italian. That experience shaped my interest in public policy, development, and environmental challenges.\nI later moved to the United States to attend Colorado College, where I earned a B.A. in Economics. There, I became especially interested in environmental economics after taking a course that included a week-long field trip across Colorado’s Front Range and Western Slope. Meeting with water engineers, economists, farmers, and local decision-makers helped me see how economic analysis connects to resource management, infrastructure decisions, and community well-being.\nMy interest in water policy developed through research and professional experience in municipal water demand management, conservation, leakage reduction, and water supply planning. I have worked with Colorado WaterWise, the State of the Rockies Project, and the Young Water Professionals Group in Kosovo, which has helped me stay connected to water-sector work in my home country.\nAt Colorado State University, my current research studies the economic consequences of inland flooding and flood risk information in the United States. My master’s thesis, The Economic Consequences of Flood Alerts: Evidence from Employment Outcomes, examined how flood alerts and flood events affect county-level employment outcomes. I am also part of collaborative research on inland flooding, including work on flood risk management, economic behavior, and data resources.\nOutside of my academic work, I remain involved in education and student support through the UWC Kosovo National Committee, where I support students from Kosovo applying to and attending UWC schools.\nSee my CV for more details."
-  },
-  {
-    "objectID": "center.html",
-    "href": "center.html",
-    "title": "Colorado Center for Food Innovation",
-    "section": "",
-    "text": "The Colorado Center for Food Innovation (CCFI) is a new multidisciplinary consortium working to remove barriers that prevent next-generation food products from reaching the market.\nWe integrate data-driven research, targeted policy advocacy, and high-impact industry partnerships to ensure innovations translate directly from the lab to commercial and widespread home adoption."
-  },
-  {
-    "objectID": "center.html#mission",
-    "href": "center.html#mission",
-    "title": "Colorado Center for Food Innovation",
-    "section": "",
-    "text": "The Colorado Center for Food Innovation (CCFI) is a new multidisciplinary consortium working to remove barriers that prevent next-generation food products from reaching the market.\nWe integrate data-driven research, targeted policy advocacy, and high-impact industry partnerships to ensure innovations translate directly from the lab to commercial and widespread home adoption."
-  },
-  {
-    "objectID": "center.html#vision",
-    "href": "center.html#vision",
-    "title": "Colorado Center for Food Innovation",
-    "section": "Vision",
-    "text": "Vision\nTo build a resilient food system that links farmers, entrepreneurs, and policymakers to scale sustainable innovation benefiting both producers and consumers."
-  },
-  {
-    "objectID": "center.html#who-we-are",
-    "href": "center.html#who-we-are",
-    "title": "Colorado Center for Food Innovation",
-    "section": "Who We Are",
-    "text": "Who We Are\nWe are a multidisciplinary research consortium combining expertise in food science, engineering, and consumer economics.\nOur work advances research and application to address supply chain challenges and develop scalable, evidence-based food system solutions."
-  },
-  {
-    "objectID": "center.html#the-problem",
-    "href": "center.html#the-problem",
-    "title": "Colorado Center for Food Innovation",
-    "section": "The Problem",
-    "text": "The Problem\nDespite rapid innovation, many next-generation sustainable foods—particularly plant-based and hybrid meat alternatives—fail to achieve wide consumer adoption.\nThe barriers extend beyond technology to include:\n\nPoor culinary performance in common home appliances\n\nPsychological resistance to new foods and technologies\n\nGaps between policy support and market incentives\n\nLimited technical workforce to sustain growth"
-  },
-  {
-    "objectID": "center.html#strategic-goals",
-    "href": "center.html#strategic-goals",
-    "title": "Colorado Center for Food Innovation",
-    "section": "Strategic Goals",
-    "text": "Strategic Goals\n\nSolve for Consumer Compliance\nDevelop formulations and processing methods that ensure new foods perform flawlessly in home appliances (microwaves, air fryers) to drive repeat purchases.\nBridge the Policy-to-Market Gap\nGenerate actionable, data-driven policy and economic insights to unlock state funding, expand market access, and remove legislative and financial barriers that limit food innovation.\nAccelerate High-Growth Markets\nFocus research and industry partnerships on urgent, high-value opportunities, such as high-protein foods for the GLP-1 consumer segment.\nBuild a Skilled Workforce\nCreate specialized training programs that address the technical and analytical needs of rapidly scaling next-generation food companies."
-  },
-  {
-    "objectID": "center.html#the-solution",
-    "href": "center.html#the-solution",
-    "title": "Colorado Center for Food Innovation",
-    "section": "The Solution",
-    "text": "The Solution\nIntegrated, Cross-Disciplinary Research\nBy combining methods and perspectives from food science, engineering, and consumer economics, we develop comprehensive solutions that are both innovative and immediately applicable.\nOur work translates innovations from the lab to commercial production and widespread home adoption."
-  },
-  {
-    "objectID": "center.html#the-impact",
-    "href": "center.html#the-impact",
-    "title": "Colorado Center for Food Innovation",
-    "section": "The Impact",
-    "text": "The Impact\nOur interdisciplinary research drives workforce development, fosters economic growth, and strengthens the food system through measurable consumer compliance (repeat purchases) and evidence-based solutions."
-  },
-  {
-    "objectID": "center.html#why-us",
-    "href": "center.html#why-us",
-    "title": "Colorado Center for Food Innovation",
-    "section": "Why Us",
-    "text": "Why Us\nOur track record of collaboration, interdisciplinary expertise, and focus on practical outcomes make us a trusted partner in advancing a more resilient and innovative food system."
-  },
-  {
-    "objectID": "center.html#why-you",
-    "href": "center.html#why-you",
-    "title": "Colorado Center for Food Innovation",
-    "section": "Why You",
-    "text": "Why You\nYour partnership helps translate research into real-world impact.\nThrough funding, collaboration, and community engagement, you help advance workforce development, foster economic innovation, and strengthen the resilience of the food system."
-  },
-  {
-    "objectID": "center.html#affiliates",
-    "href": "center.html#affiliates",
-    "title": "Colorado Center for Food Innovation",
-    "section": "Affiliates",
-    "text": "Affiliates"
-  },
-  {
-    "objectID": "center.html#team-bios",
-    "href": "center.html#team-bios",
-    "title": "Colorado Center for Food Innovation",
-    "section": "Team Bios",
-    "text": "Team Bios\n\n\n\n\n\n\n\n\nName\nTitle / Role\nExpertise\n\n\n\n\nDr. Lauren Chenarides\nAssistant Professor, Department of Agricultural and Resource Economics\nFood economics, market analysis, data infrastructures, policy modeling\n\n\nDr. Christie Peebles\nProfessor, Department of Chemical and Biological Engineering\nSynthetic biology of plants and microorganisms for protein production\n\n\nDr. Charlene Van Buiten\nAssociate Professor, Department of Food Science and Human Nutrition\nFood chemistry, nutritional and functional properties of plant-based foods"
-  },
-  {
-    "objectID": "center.html#contact",
-    "href": "center.html#contact",
-    "title": "Colorado Center for Food Innovation",
-    "section": "Contact",
-    "text": "Contact\n📍 Colorado State University, Fort Collins, CO\n📧 Lauren.Chenarides@colostate.edu"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Diellza Muriqi",
-    "section": "",
-    "text": "Welcome to my personal website!\nI am a PhD student in Natural Resource Economics at Colorado State University. My research interests are in environmental economics, natural hazards, flood risk management, early warning systems, and applied econometrics.\nMy current research studies how flood risk, flood warnings, and public risk information affect economic behavior and local outcomes. I work with large administrative and spatial datasets, including NOAA weather alerts, flood events, FEMA disaster declarations, employment data, and community-level flood mitigation records.\nVisit my research page or read more about me if you are interested in my work."
+    "text": "I am a Ph.D. student in Natural Resource Economics at Colorado State University. My research focuses on environmental and natural resource economics, with an emphasis on flood risk, warning systems, disaster impacts, water policy, and applied econometrics.\nI was born and raised in Kosovo. My first experience studying abroad was at the United World College of the Adriatic in Italy, where I completed the International Baccalaureate program, studied economics, and learned Italian. That experience shaped my interest in public policy, development, and environmental challenges.\nI later moved to the United States to attend Colorado College, where I earned a B.A. in Economics. There, I became especially interested in environmental economics after taking a course that included a week-long field trip across Colorado’s Front Range and Western Slope. Meeting with water engineers, economists, farmers, and local decision-makers helped me see how economic analysis connects to resource management, infrastructure decisions, and community well-being.\nMy interest in water policy developed through research and professional experience in municipal water demand management, conservation, leakage reduction, and water supply planning. I have worked with Colorado WaterWise, the State of the Rockies Project, and the Young Water Professionals Group in Kosovo, which has helped me stay connected to water-sector work in my home country.\nAt Colorado State University, my current research studies the economic consequences of inland flooding and flood risk information in the United States. My master’s thesis, The Economic Consequences of Flood Alerts: Evidence from Employment Outcomes, examined how flood alerts and flood events affect county-level employment outcomes. I am also part of collaborative research on inland flooding, including work on flood risk management, economic behavior, and data resources.\nOutside of my academic work, I remain involved in education and student support through the UWC Kosovo National Committee, where I support students from Kosovo applying to and attending UWC schools.\nSee my CV for more details."
   },
   {
     "objectID": "research.html",

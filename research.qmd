@@ -2,196 +2,82 @@
 title: "Research"
 toc: true
 toc-location: left
-preview: images/photo.jpg
+preview: images/photo.jpeg
 lightbox: true
 execute: 
   echo: false
   warning: false
 ---
 
-My research focuses on how food retail markets and consumer food decisions interact and contribute to economic outcomes across communities. I also study the role of data infrastructure in supporting evidence-based food policy, including efforts to increase transparency and public access to high-quality datasets through initiatives like [DemocratizingData.ai](https://democratizingdata.ai/).
+My research focuses on environmental and natural resource economics, with an emphasis on disasters, climate risk, flood warning systems, and applied econometrics. I study how risk information, public warning systems, and environmental shocks affect local economic outcomes, household decision-making, and policy design.
 
-I use high-resolution data, including scanner data, retail census data, and other micro-level datasets, to study how market structure, firm behavior, and public policy affect consumers, retailers, and researchers.
+Much of my current work uses administrative, spatial, and weather-related data to study inland flooding in the United States. I am especially interested in how flood alerts and flood events affect labor market outcomes, how communities respond to risk information, and how warning systems can be designed to better support public decision-making.
 
 [Download CV](cv.html){.btn .btn-primary}
 
 ---
 
-# Food Retail Markets, Competition, and Food Access
+# Flood Risk, Disasters, and Local Economic Outcomes
 
-This area of my research examines food retailer competition, pricing, and variation in the food options available across communities. Much of this work focuses on the changing food retail landscape, including dollar stores, food deserts, retail markups, store profitability, and public policies that influence food access.
+This area of my research examines the economic consequences of inland flooding and flood-related risk information. I study how flood events, flood alerts, and disaster exposure affect local labor markets and regional economic outcomes.
 
-## Selected publications
+## Selected work
 
-**Dollar-Store Impact on Local Labor Markets and Retail Activity**  
-Chenarides, L., T. J. Richards, Z. Rutledge, and J. Pender. 2025. *Food Policy*.  
-[Published version](https://doi.org/10.1016/j.foodpol.2025.102827)
+**Inland flooding in the United States: a review of research related to risk management, economic behavior, and data resources**  
+Muriqi, D., Bayham, J., Goemans, C., Manning, D. T., and Suter, J. F. 2025. *Environmental Research Letters*, 20(6), 063003.
 
-**Retail Markups and Discount-Store Entry**  
-Chenarides, L., M. I. Gomez, T. J. Richards, and K. Yonezawa. 2023. *Review of Industrial Organization*.  
-[Published version](https://doi.org/10.1007/s11151-023-09926-w)
+**The Economic Impact of Inland Flooding in the United States: A Disaggregated Analysis**  
+Chakraborty, J., Bayham, J., Goemans, C., Manning, D., Muriqi, D., and Suter, J. 2025. Working paper.
 
-**Dynamic Model of Entry: Dollar Stores**  
-Chenarides, L., M. Çakir, and T. J. Richards. 2023. *American Journal of Agricultural Economics*.  
-[Published version](https://doi.org/10.1111/ajae.12404)
+**The Economic Consequences of Flood Alerts: Evidence from Employment Outcomes**  
+Muriqi, D. 2025. Master's thesis, Colorado State University.
 
-**Food Retail Profits, Competition, and the Great Recession**  
-Cleary, R. O., and L. Chenarides. 2022. *Agribusiness: An International Journal*.  
-[Published version](https://doi.org/10.1002/agr.21743)
+## Conference presentations
 
-**Dollar Stores and Food Deserts**  
-Chenarides, L., C. Cho, R. M. Nayga, Jr., and M. R. Thomsen. 2021. *Applied Geography*.  
-[Published version](https://doi.org/10.1016/j.apgeog.2021.102497)
-
-**If You Build Them…Will it Matter? Food Stores’ Presence and Perceived Barriers to Purchasing Healthy Foods in the Northeastern U.S.**  
-Chenarides, L., A. Bonanno, and A. Palmer. 2020. *Applied Economic Perspectives and Policy*.  
-[Published version](https://doi.org/10.1002/aepp.13098)
-
-**Documenting the Link between Poor Food Access and Less Healthy Product Assortment across the U.S.**  
-Chenarides, L., and E. C. Jaenicke. 2018. *Applied Economic Perspectives and Policy*.  
-[Published version](https://doi.org/10.1093/aepp/ppy018)
-
-**Store Formats, Market Structure, and Consumers’ Food Shopping Decisions**  
-Volpe, R. J., III, E. C. Jaenicke, and L. Chenarides. 2018. *Applied Economic Perspectives and Policy*.  
-[Published version](https://doi.org/10.1093/aepp/ppx033)
-
-**Store Profitability and Public Policies to Improve Food Access in Non-Metro U.S. Counties**  
-Cleary, R. O., A. Bonanno, L. Chenarides, and S. J. Goetz. 2018. *Food Policy*.  
-[Published version](https://doi.org/10.1016/j.foodpol.2017.12.004)
-
-## Working papers and ongoing research
-
-**Market Structure and Price Markups in Food Retail**  
-Chenarides, L., J. Lowrey, R. J. Volpe, and A. Okrent.
-
-**Food Retailer Pricing Behavior Under Anti-Price Gouging Laws: Evidence from Scanner Data**  
-Chenarides, L., and T. J. Richards.
-
-**Dollar Stores, SNAP, and Food Access**  
-Chenarides, L., and C. Ambrozek.
+**The Economic Consequences of Flood Alerts: Evidence from Employment Outcomes**  
+UCOWR/NIWR Annual Water Resources Conference, Minneapolis, MN. June 2025.
 
 ---
 
-# Consumer Food Choices and Market Trends
+# Risk Communication and Warning Systems
 
-This area of my research studies how consumers respond to changing food products, market disruptions, supply chain shocks, public health events, and food trends. Topics include plant-based foods, COVID-19 food behavior, fruit and vegetable markets, urban agriculture, and food safety compliance.
+A second area of my research studies how people respond to warning systems and public risk information. I am interested in how the design of alerts affects trust, understanding, and willingness to take protective action.
 
-## Selected publications
+My current work includes a discrete choice experiment survey that studies preferences for flood warning systems and policy design. This project examines how households value warning-system attributes such as lead time, accuracy, message clarity, and delivery format.
 
-**Relationship between Knowledge and Compliance with Safety Measures: Evidence from COVID-19**  
-Cetik, N., C. Grebitus, and L. Chenarides. 2025. *Applied Economic Perspectives and Policy*.  
-[Published version](https://doi.org/10.1002/aepp.70031)
+## Current research themes
 
-**Grocery Stockouts and Seller Performance in Amazon’s Marketplaces**  
-Etumnu, C., L. Chenarides, and E. C. Jaenicke. 2025. *Agribusiness*.  
-[Published version](https://doi.org/10.1002/agr.22051)
-
-**Consumer Spending on Plant-Based Meat Alternatives**  
-Chenarides, L., J. Cuffey, W. Li, S. Zhao, and B. Adamo. 2024. *Choices*.  
-[Published version](https://shorturl.at/WAANF)
-
-**Consumer Spending Patterns for Plant-Based Meat Alternatives**  
-Cuffey, J., L. Chenarides, W. Li, and S. Zhao. 2022. *Applied Economic Perspectives and Policy*.  
-[Published version](https://doi.org/10.1002/aepp.13280)
-
-**A Calibrated Choice Experiment Method**  
-Chenarides, L., C. Grebitus, J. L. Lusk, and I. Printezis. 2022. *European Review of Agricultural Economics*.  
-[Published version](https://doi.org/10.1093/erae/jbac011)
-
-**COVID-19 Impact on Fruit and Vegetable Markets: One Year Later**  
-Chenarides, L., T. J. Richards, and B. Rickard. 2021. *Canadian Journal of Agricultural Economics*.  
-[Published version](http://doi.org/10.1111/cjag.12272)
-
-**Food Consumption Behavior During COVID-19**  
-Chenarides, L., C. Grebitus, J. Lusk, and I. Printezis. 2021. *Agribusiness: An International Journal*.  
-[Published version](http://dx.doi.org/10.1002/agr.21679)
-
-**Who Practices Urban Agriculture? An Empirical Analysis of Participation Before and During the COVID-19 Pandemic**  
-Chenarides, L., C. Grebitus, J. Lusk, and I. Printezis. 2021. *Agribusiness: An International Journal*.  
-[Published version](http://dx.doi.org/10.1002/agr.21675)
-
-**COVID-19 and Food Supply Chains**  
-Chenarides, L., M. Manfredo, and T. J. Richards. 2021. *Applied Economic Perspectives and Policy*.  
-[Published version](https://doi.org/10.1002/aepp.13085)
-
-**Consumers’ Perception of Urban Agriculture: An Exploratory Study**  
-Grebitus, C., L. Chenarides, R. Muenich, and A. Mahalov. 2020. *Frontiers in Sustainable Food Systems*.  
-[Published version](https://doi.org/10.3389/fsufs.2020.00079)
-
-## Working papers and ongoing research
-
-**Supply Chain Resilience and Food Supply Chains**  
-Manfredo, M., S. Webster, T. J. Richards, and L. Chenarides.
-
-**Inventory Competition and the Cost of a Stockout**  
-Richards, T. J., S. F. Hamilton, E. Rabinovich, and L. Chenarides.
-
-**Using Modern Portfolio Theory to Optimize Farmers Market Activity**  
-David, R., L. Chenarides, and M. Mallory.
+- flood warning systems and public response
+- false alarms, missed events, and warning accuracy
+- risk communication under uncertainty
+- household preferences for warning-system improvements
+- policy design for flood risk management
 
 ---
 
-# Data Democratization and Evidence-Based Policy
+# Water Resources and Policy Evaluation
 
-This area of my research studies how access to data, research infrastructure, and publication systems affect the questions researchers can ask and the evidence available for public policy. This work includes data linkages, evidence-based policymaking, machine learning, federal data infrastructure, and open-access publication models.
+My broader research interests also extend to water resources, municipal water management, and policy evaluation. This focus developed through my undergraduate work on water conservation, demand management, and leakage reduction, including research on municipal water strategies in Colorado and a cost-benefit analysis of leakage reduction methods in Peja, Kosovo. These experiences shaped my interest in how communities manage scarce water resources, evaluate infrastructure investments, and design policies that balance efficiency, equity, and long-term resilience. 
 
-## Selected publications
+## Selected work
 
-**A Review of Data Linkages for Policy-Informing Research in Food and Agricultural Economics**  
-Chenarides, L., A. S. Hanks, J. Berard, A. Carlson, G. Davis, and A. Finaret. 2025. *Food Policy*.  
-[Published version](https://doi.org/10.1016/j.foodpol.2025.102996)
-
-**Machine Learning in Applied Economics and Agribusiness: Emerging Applications and Integration with Traditional Methods**  
-Maruejols, L., X. Yu, and L. Chenarides. 2025. *International Food and Agribusiness Management Review*.  
-[Published version](https://doi.org/10.22434/ifamr.0001)
-
-**Federal Economic Data on Local and Regional Food Producers**  
-Bauman, A., B. B. R. Jablonski, D. A. Yeh, L. Chenarides, and D. Thilmany McFadden. 2024. *Journal of the Agricultural and Applied Economics Association*.  
-[Published version](https://doi.org/10.1002/jaa2.131)
-
-**Creating Engagements: Bringing the User into Data Democratization**  
-Chenarides, L. 2024. *Harvard Data Science Review*.  
-[Published version](https://doi.org/10.1162/99608f92.24c26aa9)
-
-**An Outlook on Evidence-Based Policymaking**  
-Chenarides, L., A. Hanks, A. Finaret, A. Carlson, and G. Davis. 2024. *Choices*.  
-[Published version](https://shorturl.at/hgdGc)
-
-**Grand Challenge: To Ensure That All People Have Safe, Affordable, Accessible, and Acceptable Food for Leading a Healthy and Active Life**  
-Wilson, N., L. Chenarides, J. Kolodinsky, and K. Boys. 2024. *Choices*.  
-[Published version](https://shorturl.at/nK9vt)
-
-## Working papers and ongoing research
-
-**Data-Usage Descriptors as Search Metadata: The Case of Food Security Data and the National Data Platform, 2015–2025**  
-Chenarides, L., R. Ladislau, M. Parashar, D. Hook, S. Porter, and J. Lane.
-
-**The Economic Trade-offs between Subscription-Based and Open-Access Publication Models**  
-Bryan, C., L. Chenarides, J. I. Lane, and M. Wang.
+**A Cost-Benefit Analysis of Four Leakage Reduction Methods in Peja, Kosovo: A Replicated Study**  
+Muriqi, D. 2022. Undergraduate thesis, Colorado College. Presented at the Danube Water Conference, Vienna, Austria, May 2023.
 
 ---
 
-# Teaching and public-facing scholarship
+# Methods and Data
 
-Some of my work also focuses on teaching, experiential learning, and public-facing communication.
+My research uses applied econometric methods and large administrative datasets. I work primarily with R, Stata, Excel, spatial data, weather records, employment data, FEMA disaster declarations, and NOAA flood alert and event data.
 
-**Integrating Experiential Learning into a Systems Framework: An Application to Promote Food Deserts and Food Access Concepts Among College Students**  
-Shaw-Hughner, R., C. Dumitrescu, L. Chenarides, C. Wharton, and G. Lacagnina. 2021. *Applied Economics Teaching Resources*.
-[Published version](https://ageconsearch.umn.edu/record/316504/files/AETR_2020_039RRRPDF_v3.pdf)
+Common methods and tools in my work include:
 
-**Using a Sensory Learning Framework to Design Effective Curricula: Evidence from Indigenous Nutrition Education Programs**  
-Green, K., and L. Chenarides. 2020. *Sustainability*.  
-[Published version](https://doi.org/10.3390/su12177077)
-
-**Are dollar stores the villains they’ve been made out to be?**  
-Chenarides, L. 2022. *Fast Company*.  
-[Article](https://www.fastcompany.com/90780087/are-dollar-stores-the-villains-theyve-been-made-out-to-be)
-
-**Dollar Store: Friend or Foe?**  
-Chenarides, L. 2019. *Arizona Food Industry Journal*.
+- applied econometrics
+- policy evaluation
+- panel data methods
+- spatial data analysis
+- administrative data construction
+- survey design and stated-preference methods
 
 ---
 
-# Full publication list
-
-For a complete and current list of publications, working papers, grants, and presentations, please see my [CV](cv.html).

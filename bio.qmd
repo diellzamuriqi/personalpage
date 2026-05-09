@@ -1,38 +1,33 @@
 ---
-title: "About Lauren"
+title: "About Diellza"
 toc: false
 toc-location: left
-preview: images/photo.jpg
+preview: images/photo.jpeg
 lightbox: true
 execute: 
   echo: false
   warning: false
 ---
 
-Hello! I am an applied economist and Assistant Professor in the Department of Agricultural and Resource Economics at Colorado State University. My research examines food retail markets, consumer food decisions, and the role of data infrastructure in supporting evidence-based food policy. I use large-scale retail and household datasets to study how food retail markets and consumer food decisions interact and contribute to economic outcomes across communities. This work is motivated by the need for transparent, accessible evidence to inform food and agricultural policy.
+Hello! I am a Ph.D. student in Agricultural and Resource Economics at Colorado State University. My research focuses on environmental and natural resource economics, with an emphasis on flood risk, warning systems, disaster impacts, water policy, and applied econometrics.
 
-In addition to my faculty appointment, I serve as an Associate Editor for the *American Journal of Agricultural Economics* and a board member of the [Council on Food, Agricultural, and Resource Economics](https://www.cfare.org/) (C-FARE). I am also involved in national efforts to improve access to high-quality data for food and agricultural economics research, including through [DemocratizingData.ai](https://democratizingdata.ai/).
+I was born and raised in Kosovo. My first experience studying abroad was at the United World College of the Adriatic in Italy, where I completed the International Baccalaureate program, studied economics, and learned Italian. That experience shaped my interest in public policy, development, and environmental challenges.
 
-Outside of work, I enjoy baking and spending time with my fiancé and our dog Luca. 
+I later moved to the United States to attend Colorado College, where I earned a B.A. in Economics. There, I became especially interested in environmental economics after taking a course that included a week-long field trip across Colorado’s Front Range and Western Slope. Meeting with water engineers, economists, farmers, and local decision-makers helped me see how economic analysis connects to resource management, infrastructure decisions, and community well-being.
+Hello! I am a Ph.D. student in Agricultural and Resource Economics at Colorado State University. My research focuses on environmental and natural resource economics, with an emphasis on flood risk, warning systems, disaster impacts, water policy, and applied econometrics.
 
-See my <a href="cv.pdf" target="_blank" rel="noopener noreferrer">CV</a> for more details.
+I was born and raised in Kosovo. My first experience studying abroad was at the United World College of the Adriatic in Italy, where I completed the International Baccalaureate program, studied economics, and learned Italian. That experience shaped my interest in public policy, development, and environmental challenges.
 
-# Short Bio
+I later moved to the United States to attend Colorado College, where I earned a B.A. in Economics. There, I became especially interested in environmental economics after taking a course that included a week-long field trip across Colorado’s Front Range and Western Slope. Meeting with water engineers, economists, farmers, and local decision-makers helped me see how economic analysis connects to resource management, infrastructure decisions, and community well-being.
 
-Lauren Chenarides is an Assistant Professor in the Department of Agricultural and Resource Economics at Colorado State University and an Associate Editor for the *American Journal of Agricultural Economics*. Her [research](research.qmd) focuses on food retail markets, consumer food decisions, and data infrastructure for evidence-based food policy. She studies how market structure, firm behavior, public policy, and information systems relate to economic outcomes across communities.
+My interest in water policy developed through research and professional experience in municipal water demand management, conservation, leakage reduction, and water supply planning. I have worked with Colorado WaterWise, the State of the Rockies Project, and the Young Water Professionals Group in Kosovo, which has helped me stay connected to water-sector work in my home country.
 
-Lauren has expertise in applied microeconomics, empirical industrial organization, spatial analysis, scanner data, and food systems research. She regularly works with large-scale retail and household datasets and collaborates with interdisciplinary teams on policy-relevant research. Through initiatives such as [DemocratizingData.ai](https://democratizingdata.ai/), she works to improve transparency, discoverability, and public access to high-quality datasets for food and agricultural economics research. She holds a Ph.D. in Agricultural and Resource Economics from Penn State and a B.A. in Mathematics from the College of the Holy Cross.
+At Colorado State University, my current research studies the economic consequences of inland flooding and flood risk information in the United States. My master’s thesis, The Economic Consequences of Flood Alerts: Evidence from Employment Outcomes, examined how flood alerts and flood events affect county-level employment outcomes. I am also part of collaborative research on inland flooding, including work on flood risk management, economic behavior, and data resources.
 
------
+Outside of my academic work, I remain involved in education and student support through the UWC Kosovo National Committee, where I support students from Kosovo applying to and attending UWC schools.
 
-### Looking for a speaker, advisor, or collaborator? Let’s talk.
 
-<iframe 
-  src="https://hz1r899b.forms.app/lets-get-touch"
-  width="100%" 
-  height="600" 
-  frameborder="0" 
-  style="border: none;">
-</iframe>
+See my <a href="cv.html" target="_blank" rel="noopener noreferrer">CV</a> for more details.
 
-<!-- https://forms.app/myforms -->
+
+

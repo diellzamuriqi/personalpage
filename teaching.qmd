@@ -2,67 +2,73 @@
 title: "Teaching"
 toc: false
 toc-location: left
-preview: images/photo.jpg
+preview: images/photo.jpeg
 lightbox: true
 execute: 
   echo: false
   warning: false
 ---
 
-I teach courses in food and agricultural markets, agribusiness entrepreneurship, and data-driven decision-making. Across my teaching, I emphasize applied economic reasoning, evidence-based decision-making, and professional skill development.
+My teaching has so far focused on agricultural and resource economics, economic development, and data-informed decision-making. I aim to help students connect economic concepts to real-world problems in agriculture, natural resources, water, climate risk, and regional development.
 
-Many of my courses use GitHub and Quarto websites to organize lecture notes, lab materials, assignments, and examples for students.
+I have taught and supported courses at Colorado State University and Colorado College. My teaching experience includes serving as an instructor, teaching assistant, guest lecturer, and undergraduate thesis support advisor. In 2025, I received the Charles N. Shepardson Graduate Student Teaching Award from the Colorado State University College of Agricultural Sciences.
 
 # Courses
 
-## AREC 224: Introduction to Agribusiness Entrepreneurship
+## AREC 460: Agriculture and Resource-Based Economic Development
 
-AREC 224 introduces students to entrepreneurship in agribusiness and food systems. The course emphasizes problem identification, business model development, professional skill-building, case analysis, mentorship, and student-produced podcasting.
+**Instructor, Fall 2023**  
+Colorado State University
 
-Core course elements include:
-
-- student-led podcast episodes
-- case-based discussion and analysis
-- business model development
-- professional development activities
-- mentorship and reflection through the Entrepreneurial Individual Development Plan
-
-[Course website](https://laurenchenarides.github.io/csu-arec-224/){.btn .btn-primary}
-[Podcast](podcast.html){.btn .btn-secondary}
-
-## AREC 310: Food and Agricultural Markets
-
-AREC 310 examines the structure, behavior, and performance of food and agricultural markets. Students use economic tools to understand pricing, competition, market power, risk, and current issues affecting agricultural and food markets.
+AREC 460 examines economic development through the lens of agriculture, natural resources, and regional economies. The course introduces students to applied economic development concepts and connects them to issues affecting rural communities, resource-dependent regions, and agricultural systems.
 
 Core course elements include:
 
-- market structure and competition
-- agricultural and food price analysis
-- futures markets and risk management
-- applied market case studies
-- connections between economic theory and real-world food markets
+- agricultural and resource-based economic development
+- regional economic change
+- rural development and policy
+- applied economic reasoning
+- connections between economic theory and real-world development issues
 
-[Course website](https://laurenchenarides.github.io/csu-arec-310/){.btn .btn-primary}
+## AREC 202: Agricultural and Resource Economics
 
-## AREC 330: Data-Driven Decision-Making in Agricultural and Resource Economics
+**Teaching Assistant, Fall 2023**  
+Colorado State University
 
-AREC 330 introduces students to data analysis, visualization, and decision-making using applied examples from food, agriculture, and resource economics. The course emphasizes reproducible workflows and communicating insights clearly.
+AREC 202 introduces students to core concepts in agricultural and resource economics. As a teaching assistant, I supported student learning, helped clarify course material, and assisted with the instructional needs of the course.
 
-Core course elements include:
+Core teaching responsibilities included:
 
-- data cleaning and analysis in R
-- visualization in Tableau
-- applied labs using real-world datasets
-- translating analysis into actionable insights
+- supporting student understanding of economic concepts
+- assisting with course activities and student questions
+- helping students connect economic theory to agricultural and resource issues
 
-[Course website](https://csu-arec-330.github.io/){.btn .btn-primary}
+## AREC 202: Agricultural and Resource Economics
 
-# Additional Lab Notes
+**Guest Lecturer, Fall 2025**  
+Colorado State University
 
-The following lab notes are designed for short, hands-on workshops and class activities.
+In Fall 2025, I served as a guest lecturer for AREC 202. The lecture focused on the economic classification of goods, including private goods, public goods, club goods, and common-pool resources. I also covered taxation, including different types of taxes, tax incidence, and the effects of taxes on market equilibrium.
 
-## Building an Academic Website with GitHub and Quarto
+# Additional Teaching and Mentoring
 
-In this lab, students create a personal academic website using GitHub, RStudio, and Quarto. The notes assume no prior experience with GitHub or Git.
+## Economics Department, Colorado College
 
-[Open lab notes](build_git_website.html){.btn .btn-primary}
+**Paraprofessional, August 2022 - May 2023**
+
+As a paraprofessional in the Economics Department at Colorado College, I advised undergraduate students on thesis research design and quantitative analysis. I also led instructional support sessions in Excel and Stata.
+
+Core mentoring and instructional activities included:
+
+- undergraduate thesis research support
+- quantitative analysis guidance
+- Excel and Stata instructional sessions
+- student advising on research design
+
+# Teaching Recognition
+
+## Charles N. Shepardson Graduate Student Teaching Award
+
+**Colorado State University College of Agricultural Sciences, 2025**
+
+I received the Charles N. Shepardson Graduate Student Teaching Award in recognition of my teaching contributions at Colorado State University.
